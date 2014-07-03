@@ -1,1 +1,4 @@
 *.class
+/GroovyTest/build/
+/GroovyTest/dist/
+/GroovyTest/nbproject/private/
